@@ -1,0 +1,1 @@
+It’s a folder which deletes the stuff saved in it within the set expiry date and time, so the employee is relaxed about the stress of failure of protection.
